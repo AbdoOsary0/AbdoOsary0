@@ -3,7 +3,7 @@
 <h3 align="center">I am Back-End Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoosary0&label=Profile%20views&color=0e75b6&style=flat" alt="abdoosary0" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoosary0&label=Profile%20views&color=0e75b6&style=flat" alt="abdoosary0" /> </p> -->
 
 
 <h3 align="left">Connect with me:</h3>
